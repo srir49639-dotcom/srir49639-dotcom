@@ -155,3 +155,25 @@ Probably something half-built on a branch right now too.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a0533,100:0d0d1a&height=100&section=footer&text=if+it+only+works+in+the+README%2C+it+doesn't+count.&fontSize=14&fontColor=9d6fff&fontAlignY=65" />
 
 </div>
+### ⭐ JARVIS 2.0 <sup>— Hybrid AI Assistant Platform</sup>
+[![Deploy Status](https://img.shields.io/badge/Live-Render-9d6fff?style=flat-square)](https://your-link.com) 
+[![Repo Size](https://img.shields.io/github/repo-size/srir49639-dotcom/JARVIS-2.0?color=9d6fff&style=flat-square)]()
+
+A Python backend wired to a browser-based HUD. Features voice commands, desktop automation, and real native system control. 
+
+* **Architecture:** Client-Server architecture using WebSockets/HTTP for local OS control via browser UI.
+# /now
+class SriRam:
+    def __init__(self):
+        self.building   = "JARVIS 2.0 (Python + Custom Web HUD)"
+        self.stack      = ["FastAPI", "Asyncio", "Vanilla JS", "Tailwind"]
+        self.focus      = "Optimizing OS-level execution latency & security"
+        self.philosophy = "If it only works in the README, it doesn't count."
+
+    def current_status(self):
+        return "Learning full-stack deployment and local AI orchestration."
+        ## 🤝 Contributing & Collaboration
+
+I build in public and welcome code reviews, issue deep-dives, or feature forks.
+* **Reviewing Code:** Feel free to open a Pull Request on **JARVIS 2.0** if you spot an optimization in the automation loops.
+* **Discussions:** Got an idea for a clean, zero-backend feature for **NoteShare Hub**? Drop an issue!
