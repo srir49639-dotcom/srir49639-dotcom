@@ -1,81 +1,178 @@
-# Hi 👋, I'm Sri Ram
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sri Ram
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F700\&lines=Frontend+Developer;Open+Source+Learner;JavaScript+Enthusiast;Building+Cool+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3000&color=00F700&center=true&vCenter=true&width=900&lines=Frontend+Developer;Python+Developer;AI+Builder;Open+Source+Learner;Building+Cool+Projects+🚀)
 
 ---
 
 ## 🚀 About Me
 
-💻 Passionate Frontend Developer
-📚 Building projects like **NotesHub** and **Library Management System**
-🌱 Currently learning JavaScript, GitHub, and Full Stack Development
-⚡ Love creating modern and useful web applications
+I'm **Sri Ram** — a passionate **Frontend Developer, Python Developer, and AI Enthusiast** focused on creating **modern applications, automation tools, and interactive systems**.
+
+I enjoy transforming ideas into **functional, scalable, and visually engaging projects**.
+
+### What I'm Working On
+
+🔭 Building **AI Assistants & Automation Systems**
+
+🌱 Learning **Advanced Python, Full-Stack Development & Cloud Deployment**
+
+⚡ Exploring **Desktop Applications, Web Interfaces & Productivity Tools**
+
+💡 Interested in **AI • Automation • Frontend Engineering • System Design**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-grey)
+### Languages & Frameworks
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
+</p>
 
-## 📌 Featured Projects
+### Tools & Technologies
 
-### 📚 NotesHub
-
-A platform where students can upload, organize, and share notes.
-
-🔗 Repository: [https://github.com/srir49639-dotcom/NOTESHUB](https://github.com/srir49639-dotcom/NOTESHUB)
-
----
-
-### 🏛️ Library Management System
-
-A web-based library management system for handling books and records.
-
-🔗 Repository: [https://github.com/srir49639-dotcom/LIBRARY-MANAGEMENT-](https://github.com/srir49639-dotcom/LIBRARY-MANAGEMENT-)
+✔️ Git & GitHub  
+✔️ PyInstaller  
+✔️ Render Deployment  
+✔️ GitHub Pages  
+✔️ Desktop Automation  
+✔️ Cloud Hosting
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![Sri Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=srir49639-dotcom\&show_icons=true)
+## 🤖 JARVIS-2.0 — Advanced AI Assistant Platform
+
+An advanced **hybrid AI assistant** combining a **Python backend engine** with an immersive **web-based HUD interface**.
+
+### Key Highlights
+
+✔️ Voice / Command Processing
+
+✔️ Desktop Automation
+
+✔️ Interactive Web HUD
+
+✔️ Cloud Deployment Ready
+
+✔️ Standalone Executable Builds
+
+✔️ Modern Deployment Architecture
+
+### Architecture & Deployment
+
+- **Backend:** Python Engine
+- **Frontend:** HTML / Web Interface
+- **Desktop Packaging:** PyInstaller
+- **Cloud Hosting:** Render
+- **Frontend Hosting:** GitHub Pages
+
+**Tech Used**
+
+`Python` `HTML` `JavaScript` `Render` `PyInstaller`
 
 ---
 
-## 🔥 GitHub Streak
+## ⚡ JARVIS — Python Desktop Assistant
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=srir49639-dotcom)
+A smart personal assistant built to improve productivity through **automation and system interaction**.
+
+### Features
+
+✔️ Voice Commands
+
+✔️ Screen Lock Automation
+
+✔️ System Operations
+
+✔️ Desktop Productivity Tasks
+
+✔️ Command Execution
+
+**Tech Stack**
+
+`Python`
 
 ---
 
-## 🟩 Contribution Activity
+## 📝 NOTESHUB — Student Note Sharing Platform
 
-Push code regularly to keep the graph active 🚀
+A platform designed for **students to upload, organize, and share study material efficiently**.
+
+### Features
+
+✔️ Notes Uploading
+
+✔️ Content Organization
+
+✔️ Resource Sharing
+
+✔️ Clean User Experience
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 📚 LIBRARY MANAGEMENT SYSTEM
+
+A digital solution created to modernize traditional library workflows.
+
+### Features
+
+✔️ Inventory Management
+
+✔️ Book Issue / Return Tracking
+
+✔️ Member Data Handling
+
+✔️ Efficient Record Management
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srir49639-dotcom&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srir49639-dotcom&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Development Workflow
 
 ```bash
 git add .
-git commit -m "update"
+git commit -m "Build something cool"
 git push
 ```
 
 ---
 
-## 👀 Profile Visitors
+## 📫 Connect With Me
 
-![](https://komarev.com/ghpvc/?username=srir49639-dotcom)
+📧 **Email:** srir49639@gmail.com
 
----
-
-## 🌐 Connect With Me
-
-* GitHub: [https://github.com/srir49639-dotcom](https://github.com/srir49639-dotcom)
-* Email: [srir49639@gmail.com](mailto:srir49639@gmail.com)
+💻 **GitHub:** https://github.com/srir49639-dotcom
 
 ---
 
-# ⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+🚀 Always Building Something Cool.
+
+</div>
